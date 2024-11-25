@@ -10,7 +10,7 @@ A simple yet powerful Alarm and Timer App designed with user convenience in mind
 ⚡ Ease of Use: Minimal effort required for setup, making it perfect for everyone.
 📱 Developed with simplicity and efficiency as priorities, this app delivers reliable functionality while maintaining an intuitive user interface.
 
-
+installation guide video ---> https://youtube.com/shorts/0r1-rRq3ljE?feature=share
 
 note that-
 
