@@ -1,4 +1,7 @@
-⏰ Alarm App
+#⏰ *********Alarm App*********
+
+
+
 A simple yet powerful Alarm and Timer App designed with user convenience in mind.
 
 ✨ Key Features
